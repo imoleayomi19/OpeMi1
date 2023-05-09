@@ -1,0 +1,35 @@
+body
+{
+    font-size: 23px;
+    background-color: rgb(red, green, blue);
+    color: rgb(250, 249, 249);
+    font-weight: 550;
+}
+
+div 
+{
+    background-image: linear-gradient(to right, rgba(41, 5, 43, 0.75), rgba(10, 25, 65, 0.8)), url(img/IMG_3690.JPG);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-family: sans-serif;
+    padding-bottom: 10px;
+}
+
+img 
+{
+    height: 450px;
+    width: 350px;
+}
+
+summary
+{
+font-weight: bold;
+}
+
+i {
+    color: red;
+}
