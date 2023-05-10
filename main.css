@@ -1,8 +1,11 @@
-*{
+*
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
+
 body
 {
     font-size: 5px;
@@ -30,11 +33,11 @@ img
     width: 350px;
 }
 
-summary
-{
-font-weight: bold;
-}
 
 i {
     color: red;
+}
+
+ul, li {
+    text-decoration: none;
 }
